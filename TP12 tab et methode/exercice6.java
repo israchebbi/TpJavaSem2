@@ -12,9 +12,7 @@ public class ex6{
         return max;
     }
     public static void main(String []args){
-        int[]t=//{1,2,5,89,75,10};
-        // {};
-        {8};
+        int[]t={14,82,15,8,7,1};
         System.out.println("maxtab(t)");
     }
 }

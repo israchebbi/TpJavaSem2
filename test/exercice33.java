@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercice3 {
+public class exercice33 {
     public static boolean estInf(String verbe) {
         return verbe.endsWith("er") || verbe.endsWith("ir") || verbe.endsWith("re") || verbe.endsWith("oir");
     }
